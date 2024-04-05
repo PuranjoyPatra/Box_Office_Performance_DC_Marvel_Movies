@@ -1,0 +1,31 @@
+Box office performance of DC and Marvel superhero movies:
+
+» List all DC superhero movies with their U.S. release dates and worldwide box office gross.
+» Calculate the total box office gross worldwide for all Marvel movies.
+» Find the average length of DC superhero movies.
+» Retrieve the top 5 highest-grossing DC movies in the U.S. and Canada.
+» List all Marvel Phase 3 movies.
+» Find the movie with the highest budget among all superhero movies.
+» Calculate the percentage of domestic box office gross for each Marvel movie.
+» Find the movie with the highest Rotten Tomatoes critic score.
+» List all DC movies released after 2010.
+» Find the average gross to budget ratio for Marvel Phase 2 movies.
+» Retrieve the top 5 highest-grossing movies for each distributor.
+» List all movies with a budget higher than $200 million.
+» Find the average length of movies in each MPAA rating category.
+» Calculate the total worldwide gross for each year.
+» List all Marvel movies led by a female character.
+» Find the movie with the highest inflation-adjusted worldwide gross.
+» Retrieve the top 3 movies with the highest ROI (Return on Investment).
+» List all Marvel Phase 1 movies with their budgets and lengths.
+» Find the distribution of MPAA ratings for DC movies.
+» Calculate the average inflation-adjusted budget for DC Phase 2 movies.
+» Retrieve the oldest DC movie in the dataset.
+» Find the movie with the highest box office gross in other territories.
+» Calculate the total box office gross for each franchise.
+» Retrieve the top 3 movies with the lowest Rotten Tomatoes critic scores.
+» List all movies released before 2000.
+» Find the average length of movies for each character family.
+» Calculate the percentage of movies with a budget higher than $100 million.
+» Retrieve the top 3 highest-grossing movies with a PG-13 rating.
+» List all movies with a break-even point less than 2.5x their budget.
