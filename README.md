@@ -2,6 +2,13 @@
 ## Box office performance of DC and Marvel superhero movies
 ![](./image/preview.jpg)
 
+### Table of Contents
+- [Tools](#tools)
+- [About Dataset](#about-dataset)
+- [Asked Question](#asked-question)
+- [SQL Query](#sql-query)
+- [Analysis and Results](#analysis-box-office-performance)
+
 ### Tools:
 + SQL
 + SQL Server (Database)
@@ -49,7 +56,13 @@ The dataset comprises box office data and supplemental information for all theat
 
 > Original data source is Kaggle. [Click here](https://www.kaggle.com/datasets/mdtoomey/box-office-of-dc-and-marvel-superhero-movies/download?datasetVersionNumber=1) to download.
 
-### Questions for analysis to measure Box-Office performance: 
+### Asked Question:
+The questions which are asked to solve and analyse through SQL, available [here](./Asked_Questions_for_Analysis.txt)
+
+### SQL Query:
+[click here](./Box-Office-Performance-SQLQuery.sql) to see the all SQL queries for each question asked here.
+
+### Analysis Box-Office performance: 
 1. List all DC superhero movies with their U.S. release dates and worldwide box office gross.
 <p align="center">
 <img src="./Output/1.png" alt="output1">
@@ -161,7 +174,7 @@ The dataset comprises box office data and supplemental information for all theat
 <img src="./Output/29.png" alt="output29">
 </p>
 
-### SQL Query:
-[click here](./Box-Office-Performance-SQLQuery.sql) to see the all SQL queries for each question asked here.
+Always welcome to your feedback. You can express your thoughts on this. 
+
 
 > Note: The Questions are provided by <a href="https://www.linkedin.com/in/sushant-singh-chauhan-/" target="_blank">Sushant Singh Chauhan</a>. He posted on Linkedin. Check it <a href="https://www.linkedin.com/feed/update/urn:li:activity:7180606465416593409?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7180606465416593409%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" target="_blank">here</a>.
